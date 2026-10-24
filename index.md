@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Introduction
+## **Introduction**
 
 <img src="assets/images/vesku.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Vesa-Katti Loiri, or more commonly Vesku. I am a seven-year-old cat with a very soft grey fur. I was named after the famous Finnish actor/musician Vesa-Matti Loiri. I am a  happy and a little timid cat and I love food and snacks. Currently I live in Turku in South-West Finland with my lovely humans.
 
-## Find me on
+## **Find me on**
 
 [GitHub](https://github.com/Anontides), [Instagram](https://www.instagram.com/vesa_katti_loiri/)
 
-## Contact
+## **Contact**
 
 My email address is notmyaddress@helsinki.fi. 
 
-## Courses I've Taken
+## **Courses I've Taken**
 
 Here is a list of all language technology courses I have taken:
 
