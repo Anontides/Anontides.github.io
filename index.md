@@ -29,5 +29,6 @@ Here is a list of all language technology courses I have taken:
 ### GitHub project for Command Line Tools course
 [Here](https://github.com/Anontides/Anontides.github.io) is the link to my GitHub page for this project. You are currently reading the outcome of the project. The objective was to create a webpage about and for ourselves utilizing all the knowledge we have learned on the course.
 
-## **Misc.**
+## **CV**
 
+[Here](assets/documents/CV_Vesku.pdf) is a link to a pdf-file of my CV.
